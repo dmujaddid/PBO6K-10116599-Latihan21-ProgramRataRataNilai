@@ -24,6 +24,7 @@ public class PBO6K10116599Latihan21ProgramRataRataNilai {
     public static void main(String[] args) {
         // TODO code application logic here
         
+        
         int  banyakMahasiswa;
         double nilai;
         
@@ -40,7 +41,7 @@ public class PBO6K10116599Latihan21ProgramRataRataNilai {
          } while(i<=banyakMahasiswa);
        
         System.out.println("Maka, rata-rata nilainya adalah "+((nilai/banyakMahasiswa)));
-        
+                
     }
     
 }
